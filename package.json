@@ -1,0 +1,25 @@
+{
+  "name": "rocket-gamebling-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A Discord bot that allows users to play various gambling games.",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twentyonepiloted/RocketGameblingBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/twentyonepiloted/RocketGameblingBot/issues"
+  },
+  "homepage": "https://github.com/twentyonepiloted/RocketGameblingBot#readme"
+}
